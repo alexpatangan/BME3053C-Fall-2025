@@ -12,4 +12,5 @@ __pycache__/
 *.lock
 
 study-guides/
+
 lessons-solved/
